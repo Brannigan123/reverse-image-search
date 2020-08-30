@@ -10,6 +10,7 @@ Image embeddings are compared cosine similarity and hamming.
 1. Run *[search.py](search.py)* with image path(s) as arguments and the script will display the top matches from underlying image library
 
 **Sample**
+<br>
 <img src="single_img_search.png" width="600em" hspace=10 vspace=10/>
 
 ## Running search on a  custom set of images
@@ -17,6 +18,7 @@ Image embeddings are compared cosine similarity and hamming.
 2. Run *[search.py](search.py)* and the script will display the top matches from underlying image library
 
 **Sample**
+<br>
 <img src="img_search.png" width="600em" hspace=10 vspace=10/>
 
 
